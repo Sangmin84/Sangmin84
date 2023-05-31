@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangmin84&show_icons=true&theme=transparent)
   
-<h3 align="center">📚 Study Stack 📚</h3>
+<!-- <h3 align="center">📚 Study Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -32,6 +32,7 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/MY%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
 <!--   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp -->
-  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=y3y3123@gmail.com"/></a>
-</p>
+<!--   <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=y3y3123@gmail.com"/></a> -->
+<!-- </p> -->
 
+ -->
